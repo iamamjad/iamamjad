@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **remote projects**
 
--
-
 - 💬 Ask me about **React, NodeJs,Laravel,and Strapi**
 
 - 📫 How to reach me **amjadkhan89@hotmail.com**
@@ -18,6 +16,3 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/amjadgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amjadgul" height="30" width="40" /></a>
-
-
-
