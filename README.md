@@ -15,4 +15,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/amjadgul" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D35AQEKO_cIQsM77g/profile-framedphoto-shrink_100_100/0/1701323150053?e=1703851200&v=beta&t=emFk9L9K0ImyAsknc1juVWAp1X_RV-ZNffknb2oDo_c" alt="www.linkedin.com/in/amjadgul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amjadgul" target="blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="www.linkedin.com/in/amjadgul"/></a>
