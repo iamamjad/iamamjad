@@ -1,6 +1,6 @@
 # Greetings! Welcome to my GitHub  ✨😃
 
-## My name is Amjad Gul and I'm a fast learning Full Stack Software Developer, currently working with NextJs, React, Strapi, Node.js, and more. You can connect with me via:
+## My name is Amjad Gul and I'm a fast learning Full Stack Software Developer, currently working with NextJs,Strapi,React and more. You can connect with me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amjadgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amjadgul/)](https://www.linkedin.com/in/amjadgul/)
 [![Gmail Badge](https://img.shields.io/badge/-amjadkhan89@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knollelw@gmail.com)](mailto:amjadkhan89@hotmail.com)
@@ -36,13 +36,6 @@ Misc:\
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louieknolle&hide=TeX&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
-
-<!--
-**louieknolle/louieknolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
