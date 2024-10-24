@@ -1,6 +1,6 @@
 # Greetings! Welcome to my GitHub  ✨😃
 
-## My name is Amjad Gul and I'm a fast learning Full Stack Software Developer, currently working with NextJs, React, Strapi, Node.js, and PHP Laravel. You can connect with me via:
+## My name is Amjad Gul and I'm a fast learning Full Stack Software Developer, currently working with NextJs, React, Strapi, Node.js, and more. You can connect with me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amjadgul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amjadgul/)](https://www.linkedin.com/in/amjadgul/)
 [![Gmail Badge](https://img.shields.io/badge/-amjadkhan89@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knollelw@gmail.com)](mailto:amjadkhan89@hotmail.com)
@@ -10,16 +10,14 @@
 Languages:\
 ![NextJs](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)\
+
 Frameworks & Libraries:\
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)\
 Backend Tools & DBs:\
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\
@@ -45,7 +43,6 @@ Misc:\
 
 <!--
 **louieknolle/louieknolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
